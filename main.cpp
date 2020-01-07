@@ -18,7 +18,7 @@ int main()
    string Tuto;
    string mission;
    string Personnages[4] = {"Perso1","Perso2","Perso3","Perso4"};
-
+//test 2
    cout<<"Bonjour et Bienvenue "<<char(133)<<" PlankalK"<<char(129)<<"l."<<endl<<endl;
    cout<<" Nous vous avons amen"<<char(130)<<" "<<char(133)<<" 3000 m sous terre dans cette ancienne mine de cuivre en plein"
          " coeur de l"<<char(39)<<"Alaska.\n Nous ne sommes pas ici pour extraire de l"<<char(39)<<"or mais belle et bien pour"
