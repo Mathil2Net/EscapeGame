@@ -10,6 +10,7 @@ using namespace std;
 
 int main()
 {
+    //test git
    system("mode 650");
    int choix = 0;
    int action = 0;
