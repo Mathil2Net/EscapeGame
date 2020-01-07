@@ -10,7 +10,6 @@ using namespace std;
 
 int main()
 {
-    //test git
    system("mode 650");
    int choix = 0;
    int action = 0;
@@ -18,17 +17,17 @@ int main()
    string Tuto;
    string mission;
    string Personnages[4] = {"Perso1","Perso2","Perso3","Perso4"};
-//test 2
-   cout<<"Bonjour et Bienvenue "<<char(133)<<" PlankalK"<<char(129)<<"l."<<endl<<endl;
-   cout<<" Nous vous avons amen"<<char(130)<<" "<<char(133)<<" 3000 m sous terre dans cette ancienne mine de cuivre en plein"
-         " coeur de l"<<char(39)<<"Alaska.\n Nous ne sommes pas ici pour extraire de l"<<char(39)<<"or mais belle et bien pour"
-         " interpreter la mati"<<char(138)<<"re.\n Ici tout bouge tr"<<char(130)<<"s vite, vous "<<char(136)<<"tes en plein coeur d"<<char(39)<<"un ordinateur !"<<endl<<endl;
-   cout<<" Nous vous avons inculqu"<<char(130)<<" des m"<<char(130)<<"canismes pr"<<char(130)<<"sent ici dans vos habitudes de vie. Nous vous\n"
-         " avons suivis et nous avons guid"<<char(130)<<" vos choix afin que vous puissiez d"<<char(130)<<"velopper des comp"<<char(130)<<"tences\n sp"<<char(130)<<"cifiques qui vous permettront de d"<<char(130)<<"crypter ce nouveau langage."
-         " Aujourd"<<char(39)<<"hui, vous "<<char(136)<<"tes pr"<<char(136)<<"t!"<<endl<<endl;
-   cout<<" Tous les 4, vous n"<<char(39)<<"avez aucun point commun "<<char(133)<<" part ce langage que nous vous avons instruit, nous appelons : l"<<char(39)<<"Orient"<<char(130)<<" Objet. \n"
-         " Aujourd"<<char(39)<<"hui, je vous demande une chose tr"<<char(130)<<"s simple, remplir les 10 cases du tableau que vous aller d"<<char(130)<<"couvir dans la salle Tesla. \n"
-         " Le seul indice que nous proc"<<char(130)<<"dons, est le nombre PI.\n"<<endl;
+
+   cout<<"Bonjour et Bienvenue à PlankalKül."<<endl<<endl;
+   cout<<" Nous vous avons amené à 3000 m sous terre dans cette ancienne mine de cuivre en plein"
+         " coeur de l'Alaska.\n Nous ne sommes pas ici pour extraire de l'or mais bel et bien pour"
+         " interpreter la matière.\n Ici tout bouge très vite, vous êtes en plein coeur d'un ordinateur !"<<endl<<endl;
+   cout<<" Nous vous avons inculqué des mécanismes présent ici dans vos habitudes de vie. Nous vous"
+         " avons suivis et nous avons guidé vos choix afin que vous puissiez développer des compétences spécifiques qui vous permettront de décrypter ce nouveau langage."
+         " Aujourd'hui, vous êtes prêts !"<<endl<<endl;
+   cout<<" Tous les 4, vous n'avez aucun point commun à part ce langage que nous vous avons instruit, nous appelons : l'Orienté Objet. \n"
+         " Aujourd'hui, je vous demande une chose très simple, remplir les 10 cases du tableau que vous aller découvir dans la salle Tesla. \n"
+         " Le seul indice que nous possédons, est le nombre PI.\n"<<endl;
    cout<<"      Bon jeu!"<<endl<<endl;
 
    do {
